@@ -53,6 +53,6 @@ This project demonstrates expertise in **secure software development** and **vul
 - Conducting **functional testing** to validate security measures.
 
 ### **GitHub Repository**
-[Insert your GitHub repository link here]
+(https://github.com/synthesoul/CS305)
 
 This project highlights critical secure coding techniques and can serve as a strong portfolio piece for potential employers.
